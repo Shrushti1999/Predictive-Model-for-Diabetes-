@@ -1,4 +1,4 @@
-# Predictive-Model-for-Diabetes-
+# Predictive-Model-for-Diabetes
 **PROBLEM STATEMENT** 
 
 Diabetes Mellitus is a widespread chronic condition in which the body's ability to metabolize glucose is impaired. Predictive Model for Diabetes is a Microsoft Azure Machine Learning model that predicts if a patient has diabetes or not based on their laboratory results.   
