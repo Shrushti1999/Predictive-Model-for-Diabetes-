@@ -13,4 +13,16 @@ Diabetes Mellitus is a widespread chronic condition in which the body's ability 
 
 **DATASET**
 
-768 rows and 9 columns ( 8 features and 1 label ), Number of times pregnant, Plasma glucose concentration a 2 hours in an oral glucose tolerance test, Diastolic blood pressure (mm Hg), Triceps skin fold thickness (mm), 2-Hour serum insulin (mu U/ml), Body mass index (weight in kg/(height in m)^2), Diabetes pedigree function, Age (years), Class variable (0 or 1) : 268 of 768 are 1, others are 0.    
+The Pima Indians Diabetes Binary Classification dataset from the Azure Open dataset is used, which has 768 rows and 9 columns ( 8 features and 1 label ).
+* Number of times pregnant
+* Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+* Diastolic blood pressure (mm Hg)
+* Triceps skin fold thickness (mm)
+* 2-Hour serum insulin (mu U/ml)
+* Body mass index (weight in kg/(height in m)^2)
+* Diabetes pedigree function
+* Age (years)
+* Class variable (0 or 1) : 268 of 768 are 1, others are 0.  
+
+ **CONCLUSION**
+ 
